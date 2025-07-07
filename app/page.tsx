@@ -122,7 +122,7 @@ export default function Home() {
               {...fadeInUp}
               transition={{ delay: 0.7, duration: 0.6 }}
             >
-              Sistema avançado que utiliza tecnologia <strong>RAGFlow (Retrieval-Augmented Generation)</strong> para 
+              Sistema avançado que utiliza tecnologia de inteligência artificial para 
               identificar conteúdos desinformativos em matérias jornalísticas com precisão e transparência.
             </motion.p>
             
